@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544552603 source:c:\users\lenovo\desktop\kurs_mysql2\szereg\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<vector>
+	<fstream>
+
