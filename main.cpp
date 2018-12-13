@@ -3,9 +3,8 @@
 #include <iomanip>
 #include <vector>
 #include <fstream>
-
+//komentarz//
 using namespace std;
-
 class Program
     {
       public: float SumaSzeregu(float X, float Eps,string what="Suma")
