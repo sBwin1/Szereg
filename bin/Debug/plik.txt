@@ -1,0 +1,10 @@
+Wartosc zmienej X    Wartosc szeregu potegowego    Wartosc szeregu potegowego    Wartosc szeregu potegowego    Wartosc szeregu potegowego
+                         w formacie domyslnym       w formacie wykladniczym      w formacie stalopozycyjnym      w formacie zwiezlym
+1                                6.35556               6.35555601e+000                     6.3555560
+1.15                             7.52798               7.52797556e+000                     7.5279756
+1.3                              8.94836               8.94836044e+000                     8.9483604
+1.45                             10.5446               1.05446396e+001                     10.544640
+1.6                              12.3919               1.23919230e+001                     12.391923
+1.75                             14.6088               1.46088295e+001                     14.608829
+1.9                              17.1186               1.71185684e+001                     17.118568
+2                                19.0092               1.90091534e+001                     19.009153
